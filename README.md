@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saadm28
 - 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning Node.JS & React.JS
 - 📫 email: saadmuhammad451@gmail.com
 
 <!---
