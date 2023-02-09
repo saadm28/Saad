@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saadm28
-- 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning Node.JS & React.JS
+- 👀 I’m interested in Web Development, Python Programming and Machine Learning
+- 🌱 I’m currently learning Flask and PostgreSQL
 - 📫 email: saadmuhammad451@gmail.com
 
 <!---
